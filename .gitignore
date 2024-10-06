@@ -1,0 +1,55 @@
+# Directorios de dependencias
+/vendor/
+
+# Archivos de configuración locales
+/.env
+/.env.local
+
+# Archivos de compilación
+/build/
+dist/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+/tmp/
+*.tmp
+
+# Archivos de caché
+/cache/
+*.cache
+
+# IDEs y editores
+/.idea/
+/.vscode/
+/*.sublime-workspace
+/*.sublime-project
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de PHPUnit
+.phpunit.result.cache
+
+# Archivos de documentación de PHP
+docs/
+
+# Otros archivos de configuración del sistema
+*.swp
+*.swo
+
+# Ignorar archivos .phar
+*.phar
+
+# Ignorar Documentacion Proyecto
+/Docs/
+*.docx
+*.xlsx
+
+# Ignorar Logos
+/Images/
+*.png
+*.jpg
+*.jpge
